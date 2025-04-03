@@ -1,4 +1,13 @@
 /********** common setting **********/
+@import url("rain.css");
+
+.boxgalaxybrain .card{
+    width: 350px;
+  }
+  .boxgalaxybrain .info{
+    width: 350px;
+  }
+
 body {
 overflow-x: hidden;
 }
